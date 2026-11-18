@@ -1,0 +1,10 @@
+problema,valor_paper,valor_replica,diferencia_%
+Existence of CA,0.3310,0.3310,0.01
+APF precedes CA,0.6690,0.6699,0.14
+APF precedes CA (inmediatamente),0.6690,0.6690,-0.01
+CA with multiple offers,0.2450,0.2450,0.02
+High flow time of CA,"27 days, 14:21:49","27 days, 5:54:08",-1.28
+High sojourn time of CA,"24 days, 23:09:35","25 days, 12:44:44",2.27
+High sync time of CA w.r.t. Offer,"2 days, 0:23:45","1 day, 17:09:24",-14.96
+High pooling time of CA w.r.t. Offer,"1 day, 17:10:17","1 day, 9:07:53",-19.53
+High readiness time of CA w.r.t. Offer,0:25:44,8:01:03,1769.36
